@@ -11,17 +11,30 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+    An example of good visualization :"Finding Oases In Food Deserts" by Corey Jones (Source: Tableau Public, https://public.tableau.com/app/profile/corey.jones/viz/FindingOasesInFoodDeserts/Dashboard1)
 
+      The reason why this data viz is effective and I marked as good:
+      1. Minimal decoration and clear legends ensure that the data remains central.
+      2. It follows Gestalt principle: Grouped regions and consistent shading highlights patterns while enabling easy understanding and comparison. 
+      3. The chart was intentionally designed with minimal colors, stron title, labeled axes to reduce cognitive load.
 
+      An example of bad visualization: "Andy Kirk Course: Worst Viz Ever" by Fiona Gordon (source: Tableau Public, https://public.tableau.com/app/profile/fiona.gordon/viz/AndyKirkCourseWorstVizEver/UgliestDashboardWorstDesign)
 
-
-
+      The reason why this type of visualization fails:
+      1. Over-designed and use of loud colors make the understanding confusing. 
+      2. The chart selection is inappropriate and misaligned.
+      3. Poor emphasis—irrelevant details drown out meaningful data, leads to no clarity and disoriented focus. 
 
 
       ```
+
+      
     - How could this data visualization have been improved?  
       ```
       Your answer...
+    1. Use the right chart type and establish viusual hierarchy by using right size, right color and right positioning to draw attention to key insights. 
+    2. Improve color choices using color palettesthat are visually distinct and not overwhelming.
+    3. Clarify purpose with clear title and brief annotations directly on the chart to explain patterns. 
 
 
 
