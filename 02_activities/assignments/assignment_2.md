@@ -32,16 +32,24 @@
     - How could this data visualization have been improved?  
       ```
       Your answer...
-    1. Use the right chart type and establish viusual hierarchy by using right size, right color and right positioning to draw attention to key insights. 
-    2. Improve color choices using color palettesthat are visually distinct and not overwhelming.
-    3. Clarify purpose with clear title and brief annotations directly on the chart to explain patterns. 
+      Imporvement suggestions for this chosen example of good data visualization: 
+      1. There is no immediate takeaways on total % of poulation in food deserts, To improvde I would add summary cards such as Total food deserts, % of Zip Codes with no healthy stores.
+     
+      2. The legend isn't clearly labeled or explained. WOuld add clear legends with pop up explanation.
+
+      3. Color palette may be hard to distinguish for color-blind users. I would use color-blind safe palettes for extra clarity. 
 
 
 
+      Imporvement suggestions for this chosen example of bad data visualization 
 
+    1. Choose the appropriate chart type and establish visual hierarchy by using effective sizing, color contrast, and positioning to highlight key insights.
 
+    2. Enhance color choices by applying visually distinct and accessible color palettes that guide the viewer without overwhelming them.
 
-      
+    3. Clarify the chart’s purpose with a concise, descriptive title and brief on-chart annotations to help explain key patterns and trends.
+
+     
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
