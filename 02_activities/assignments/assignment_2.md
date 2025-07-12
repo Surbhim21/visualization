@@ -11,24 +11,45 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+    An example of good visualization :"Finding Oases In Food Deserts" by Corey Jones (Source: Tableau Public, https://public.tableau.com/app/profile/corey.jones/viz/FindingOasesInFoodDeserts/Dashboard1)
 
+      The reason why this data viz is effective and I marked as good:
+      1. Minimal decoration and clear legends ensure that the data remains central.
+      2. It follows Gestalt principle: Grouped regions and consistent shading highlights patterns while enabling easy understanding and comparison. 
+      3. The chart was intentionally designed with minimal colors, stron title, labeled axes to reduce cognitive load.
 
+      An example of bad visualization: "Andy Kirk Course: Worst Viz Ever" by Fiona Gordon (source: Tableau Public, https://public.tableau.com/app/profile/fiona.gordon/viz/AndyKirkCourseWorstVizEver/UgliestDashboardWorstDesign)
 
-
-
+      The reason why this type of visualization fails:
+      1. Over-designed and use of loud colors make the understanding confusing. 
+      2. The chart selection is inappropriate and misaligned.
+      3. Poor emphasis—irrelevant details drown out meaningful data, leads to no clarity and disoriented focus. 
 
 
       ```
+
+      
     - How could this data visualization have been improved?  
       ```
       Your answer...
+      Imporvement suggestions for this chosen example of good data visualization: 
+      1. There is no immediate takeaways on total % of poulation in food deserts, To improvde I would add summary cards such as Total food deserts, % of Zip Codes with no healthy stores.
+     
+      2. The legend isn't clearly labeled or explained. WOuld add clear legends with pop up explanation.
+
+      3. Color palette may be hard to distinguish for color-blind users. I would use color-blind safe palettes for extra clarity. 
 
 
 
+      Imporvement suggestions for this chosen example of bad data visualization 
 
+    1. Choose the appropriate chart type and establish visual hierarchy by using effective sizing, color contrast, and positioning to highlight key insights.
 
+    2. Enhance color choices by applying visually distinct and accessible color palettes that guide the viewer without overwhelming them.
 
-      
+    3. Clarify the chart’s purpose with a concise, descriptive title and brief on-chart annotations to help explain key patterns and trends.
+
+     
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
